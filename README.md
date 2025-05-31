@@ -14,8 +14,8 @@
 
 📁 Projects I'm proud of:  
 - 🚲 **Cyclistic Data Analysis**: Built a complete ETL pipeline and Tableau dashboard to uncover user insights from 5M+ records.  
-- 📚 **Library Management System**: Visualized learning gaps and trends to support targeted interventions.  
-
+- 📚 **Library Management System**: creatied and managed tables, performed CRUD operations, and executed advanced SQL queries.
+- **Retail Sales**: set up a retail sales database, performed exploratory data analysis (EDA), and answered specific business questions through SQL queries. 
 💬 I'm open to:  
 - Collaborations on impactful data or edtech projects  
 - Internships, fellowships, or freelance gigs in data analytics  
