@@ -24,5 +24,6 @@
 📫 Reach me:  
 - Mail: adetayoakinsola@gmail.com 
 - LinkedIn: linkdin.com/in/adetayo-akinsola  
-- Tableau: https://public.tableau.com/app/profile/adetayo.akinsola/vizzes
+- Tableau: public.tableau.com/app/profile/adetayo.akinsola/vizzes
+  
 🚀 Let’s build solutions that matter!
