@@ -22,6 +22,7 @@
 - Conversations about using AI & analytics for social good  
 
 📫 Reach me:  
-adetayoakinsola@gmail.com | LinkedIn: [linkdin.com/in/adetayo-akinsola]  
+Mail: adetayoakinsola@gmail.com 
+LinkedIn: linkdin.com/in/adetayo-akinsola  
 
 🚀 Let’s build solutions that matter!
