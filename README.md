@@ -22,8 +22,6 @@
 - Conversations about using AI & analytics for social good  
 
 📫 Reach me:  
-- Mail: adetayoakinsola@gmail.com 
-- LinkedIn: linkdin.com/in/adetayo-akinsola  
-- Tableau: public.tableau.com/app/profile/adetayo.akinsola/vizzes
+- Mail: adetayoakinsola@gmail.com | [LinkedIn](www.linkedin.com/in/adetayo-akinsola) | [Tableau Profile](https://public.tableau.com/app/profile/adetayo.akinsola/vizzes) | [GitHub](https://github.com/Adetayo-Akinsola)
   
 🚀 Let’s build solutions that matter!
